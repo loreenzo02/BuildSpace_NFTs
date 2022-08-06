@@ -11,3 +11,4 @@ GAS_REPORT=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+You can mint your NFT on rinkeby testnet using this webpage: https://nft-starter-project-1.alejandroloren4.repl.co/
